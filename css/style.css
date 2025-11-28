@@ -336,7 +336,7 @@ button {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #fa7f63;
+    background-color: #6ebc3c;
     text-align: center;
     border-radius: 40px;
     padding: 10px 0px;
@@ -356,7 +356,7 @@ button {
 }
 
 .carousel-indicators .active {
-    background-color: #fa7f63;
+    background-color: #6ebc3c;
 }
 
 .imagen-carousel {
